@@ -1,5 +1,7 @@
 # Using Graph Databases to Infer Missing Case Identifiers in Event Data
 
+‼️ This project does not use PromG yet. This update will be released as soon as possible.
+
 ## Description
 
 This repository collects queries for modeling and importing incomplete event data as Event Knowledge Graphs using the Labeled
@@ -9,7 +11,7 @@ Copyright information is provided within each Project.
 
 ## Clone the repo and make sure to grab the submodules
 ### Clone repository
-To clone `git clone https://github.com/Ava-S/ekg_inference.git`
+To clone `git clone https://github.com/PromG-dev/promg-inference`
 
 ### Submodule: EKG Construction
 The EKG construction is specified in `ekg-creator` and is a submodule.
